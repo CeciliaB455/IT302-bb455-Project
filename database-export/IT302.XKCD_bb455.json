@@ -1,0 +1,380 @@
+[{
+  "_id": {
+    "$oid": "65ce3dc121832fca2d4e1e75"
+  },
+  "month": "8",
+  "num": 301,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Limerick",
+  "transcript": "[[Stick figure sitting at computer, typing]]\nStickman:I used to find slashdot delightful,\nbut my feelings of late are more spiteful;\nmy comments sarcastic\nthe iconoclastic\nkeep modding to plus five (Insightful).",
+  "alt": "Fun game: try to post a YouTube comment so stupid that people realize you must be joking.  (Hint: this is impossible)",
+  "img": "https://imgs.xkcd.com/comics/limerick.png",
+  "title": "Limerick",
+  "day": "10",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3e1621832fca2d4e1e76"
+  },
+  "month": "8",
+  "num": 302,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Names",
+  "transcript": "{{Title: Names}}\nMan (thinking): I hate it when I don't know someone's name, but it's been long enough that it's too awkward to ask.\n[[The scene is revealed to be at the alter getting married by a minister to a woman in a bridal dress.]]\nMinister: Do you Rachel, take this man...\nMan (thinking): Aha! Rachel!\n{{alt-text: I'm always so happy that I successfully navigated the introduction that I completely forget to pay attention to the name the other person told me.}}",
+  "alt": "I'm always so happy that I successfully navigated the introduction that I completely forget to pay attention to the name the other person told me.",
+  "img": "https://imgs.xkcd.com/comics/names.png",
+  "title": "Names",
+  "day": "13",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3e4221832fca2d4e1e77"
+  },
+  "month": "8",
+  "num": 303,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Compiling",
+  "transcript": "{{ Title: The #1 Programmer Excuse for Legitimately Slacking Off: âMy code's compiling.â }}\n[[Two programmers are sword-fighting on office chairs in a hallway. An unseen manager calls them back to work through an open office door.]]\nManager: Hey! Get back to work!\nProgrammer 1: Compiling!\nManager: Oh. Carry on.\n{{ Alt: âAre you stealing those LCDs?â âYeah, but I'm doing it while my code compiles.â }}",
+  "alt": "'Are you stealing those LCDs?' 'Yeah, but I'm doing it while my code compiles.'",
+  "img": "https://imgs.xkcd.com/comics/compiling.png",
+  "title": "Compiling",
+  "day": "15",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3e7621832fca2d4e1e78"
+  },
+  "month": "8",
+  "num": 304,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Nighttime Stories",
+  "transcript": "[[ Man sitting in an armchair in a darkened room, behind him a bookshelf and an open window. A girl is seen outside reading a book by an eerie glow]]\nFor a few weeks now, sometime past midnight, a girl has wandered past my apartment reading by flashlight.\n[[Outside, the girl, walking down the street passing under a street lamp]]\nI wonder why she's up so late.\nMaybe she's restless\nLike me.\nI wonder what story she's wrapped up in.\nI wonder if she let's anyone into that island of light.\n[[ Man sitting in dark room ]]\n[[ Dark room minus man ]]\n[[ Man standing on his doorstep at the top of a small flight of stairs, near the bottom of which the girl has stopped, no longer reading. ]]\nMan: Hi!  What are you reading?\nGirl: Orson Scott Card's 'Xenocide.'  It's my favorite in the series!\n[[ The same, only man looks more dejected ]]\nMan: Wait, you like it more than Speaker for the Dead OR Ender's Game?\nGirl: Yeah!\n[[ The same, only man has withdrawn ]]\n[[ Man back sitting in the chair within dark apartment ]]\nAnd to think I loved her.\n{{ alt: Cue angry letters from all seven fans of Xenocide. }}",
+  "alt": "Cue angry letters from all seven fans of Xenocide.",
+  "img": "https://imgs.xkcd.com/comics/nighttime_stories.jpg",
+  "title": "Nighttime Stories",
+  "day": "17",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3eb721832fca2d4e1e79"
+  },
+  "month": "8",
+  "num": 306,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Orphaned Projects",
+  "transcript": "[[Voices are coming from behind a door with a sign that reads \"Debian Linux HQ\"]]\nFirst voice: Problem: One of the volunteer developers has a date this weekend. Dates lead to romance, romance leads to orphaned projects.\nSecond voice: What's the plan?\nFirst voice: We're hiring him a relationship coach. He's like Will Smith in \"Hitch,\" but he only gives bad advice.\n[[Man in black hat is talking to another man, who is standing in from of a mirror]]\nMan in black hat: Okay, remember: The key to conversation is constructive criticism.\nMan in black hat: You need to show you're smart enough to solve her problems.\nMan in front of mirror: Makes sense.\n{{title text: His date works for Red Hat, who hired a coach for her, too.  She advised her to 'rent lots of movies like Hitch.  Guys love those.'}}",
+  "alt": "His date works for Red Hat, who hired a coach for her, too.  He advised her to 'rent lots of movies like Hitch.  Guys love those.'",
+  "img": "https://imgs.xkcd.com/comics/orphaned_projects.png",
+  "title": "Orphaned Projects",
+  "day": "22",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3ed921832fca2d4e1e7a"
+  },
+  "month": "8",
+  "num": 307,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Excessive Quotation",
+  "transcript": "[[Outside, under a crescent moon.]]\nWoman: It's strange to stare at the moon and think about people walking on it.\nMan: That's no moon, it's aâ<<gack>>\n[[She holds him up in the air by his neck Ã  la Darth Vader using the force.]]\nWoman: I find your lack of original conversation disturbing.\n{{Title text: Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.}}",
+  "alt": "Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.",
+  "img": "https://imgs.xkcd.com/comics/excessive_quotation.png",
+  "title": "Excessive Quotation",
+  "day": "24",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3f3321832fca2d4e1e7b"
+  },
+  "month": "8",
+  "num": 309,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Shopping Teams",
+  "transcript": "[[Each team is looking at a counter with two cubes on it.]]\nBad: Two non-nerds\nFirst man: Let's get that one.\nSecond man: okay.\nGood: non-nerd + nerd\nWoman: Let's get that one.\nMan: Wait, I think that one might be a better deal.\nWoman: Okay, that one. \nVery Bad: Two Nerds\nMan: How about that one?\nSecond man: i think the other one might be the better deal...\nFirst man: Hmm, I'm not sure...'\nTwo Hours Later\n[[Nerds are sitting in front of laptops with papers strewn about in front of display counter]]\nMan: I think our main problem is our unclear definition of value\nWoman: That is not your main problem!\n{{Title Text: I am never going out to buy an air-conditioner with my sysadmin again.}}",
+  "alt": "I am never going out to buy an air conditioner with my sysadmin again.",
+  "img": "https://imgs.xkcd.com/comics/shopping_teams.png",
+  "title": "Shopping Teams",
+  "day": "29",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3f8121832fca2d4e1e7c"
+  },
+  "month": "9",
+  "num": 311,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Action Movies",
+  "transcript": "[[A man and a woman are talking together as they walk away from a cinema]]\nMan: Another summer gone without a mindless big-budget action movie.\nWoman: Huh? Die Hard was nothing BUT action!\nMan: No, it was too talky.\nWoman: What? Too talky?\nMan: I tallied it minute-by-minute. It's at least 60% people walking and talking. ALL those movies are.\nMan: Just once, I want a real action movie. 30 seconds of exposition followed by a perfect 90-minute action scene. One with a huge budget, a good choreographer, and a great director.\nWoman: And they should center it around some character we already know, someone we never get tired of watching.\nMan: I think we've got something here...\n[[A movie poster is shown]]\nMovie Poster: Coming this summer\nMovie Poster: River Tam\nMovie Poster: Beats up EVERYONE\n[[The movie shows a line of houses, there are people beat up and lying in doorways, out of windows, and on the sidewalk. River Tam is doing a flying kick into someone's face]]\n{{title text: By my count, only 48 of the 158 minutes in Live Free or Die Hard have action.  That's pathetic, guys.  Crank is better, but needs a bigger budget and more Summer Glau.}}",
+  "alt": "By my count, only 48 of the 158 minutes in Live Free or Die Hard have action.  That's pathetic, guys.  Crank is better, but needs a bigger budget and more Summer Glau.",
+  "img": "https://imgs.xkcd.com/comics/action_movies.png",
+  "title": "Action Movies",
+  "day": "3",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3fa621832fca2d4e1e7d"
+  },
+  "month": "9",
+  "num": 312,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "With Apologies to Robert Frost",
+  "transcript": "A God's Lament\nSome said the world should be in Perl;\nSome said in Lisp.\nNow, having given both a whirl,\nI held with those who favored Perl.\nBut I fear we passed to men\nA disappointing founding myth,\nAnd should we write it all again,\nI'd end it with\nA close-paren.",
+  "alt": "Some say the world will end in fire; some say in segfaults.",
+  "img": "https://imgs.xkcd.com/comics/with_apologies_to_robert_frost.png",
+  "title": "With Apologies to Robert Frost",
+  "day": "5",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3fc621832fca2d4e1e7e"
+  },
+  "month": "9",
+  "num": 313,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Insomnia",
+  "transcript": "[[It is black, except a few blue and green lights, and red numbers from a clock. The clock shows 4:31]]\nLying awake at night\nI realize how many little lights there are in my room.\nThe alarm clock is the brightest.\nCan't sleep\nI'm alone with those glowing red numbers\n[[The clock now shows 4:32]]\nTime slows\nDoes time even exist here?\nThoughts churning in on themselves\n[[The clock nows shows 4:33]]\nThe madness can't be far away\nAh yes\n[[The clock now shows 13:72]]\nThere it is.\n{{title text: Crap, I have levitation class at 25:131.  Better set the alarm to 'cinnamon'.}}",
+  "alt": "Crap, I have levitation class at 25:131.  Better set the alarm to 'cinnamon'.",
+  "img": "https://imgs.xkcd.com/comics/insomnia.png",
+  "title": "Insomnia",
+  "day": "7",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce3ffa21832fca2d4e1e7f"
+  },
+  "month": "9",
+  "num": 314,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Dating Pools",
+  "transcript": "[[Woman is sitting on the ground with her elbows on her knees and her hands on her chin.  She is talking to a man.]]\nWoman: This sucks. The median first marriage age is 26. The pools of singles is shrinking. I'm running our of time.\nMan: Actually, not quite.\nMan: Yes, older singles are rarer. But as you get older, the dateable age range gets wider. An 18-year-old's range is 16-22, whereas a 30-year-old's might be more like 22-46.\n[[Man points to a chart]]\nText on chart: Standard creepiness rule: Don't date under (Age\n2 + 7)\nMan: I did some analysis of this with the Census Bureau numbers just last weekend. Your dating pool actually GROWS until middle age. So don't fret so much!\n[[Man is pointing to new set of charts. The first chart is labeled Singles, and is a decreasing graph.  The second graph is labeled Dating Pool, and is a bell curve.]]\nWoman: Did you analysis say anything about the dating prospects of people who spend weekends at home making graphs?\nMan: Come on. Somewhere at the edge of the bell curve is the girl for me.\n{{title text: The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.}}",
+  "alt": "The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.",
+  "img": "https://imgs.xkcd.com/comics/dating_pools.png",
+  "title": "Dating Pools",
+  "day": "10",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce401421832fca2d4e1e80"
+  },
+  "month": "9",
+  "num": 315,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Braille",
+  "transcript": "I learned to read braille a while back, and I've noticed that the messages on signs don't always match the regular text.\n[[There is a sign which reads: Third Floor Office with braille print underneath.  A man is reading the braille]]\nMan's thoughts: S-i-g-h-t-e-d-P-e-o-p-l-e-S-u-c-k ... Hey!\n{{alt text: The only big difference I've seen is in colors.  Where the regular text reads 'press red button', the braille reads 'press two-inch button'.}}",
+  "alt": "The only big difference I've seen is in colors.  Where the regular text reads 'press red button', the braille reads 'press two-inch button'.",
+  "img": "https://imgs.xkcd.com/comics/braille.png",
+  "title": "Braille",
+  "day": "12",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce405221832fca2d4e1e81"
+  },
+  "month": "9",
+  "num": 319,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Engineering Hubris",
+  "transcript": "[[ Landscape in the background, canyon with a winding road ]]\nMaybe engineering is the pursuit of an unattainable perfection.\nMaybe it's impossible to create something bug-free.\nMaybe I'm a fool\nMaybe the tyranny of Murphy is the penalty for hubris.\nBut I just can't shake the feeling\n[[ man standing on a box labeled \"ACME\" ]]\nWith all those supplies\n_I_ could have caught that roadrunner.\n{{Alt: Chuck Jones is a vengeful god. }}",
+  "alt": "Chuck Jones is a vengeful god.",
+  "img": "https://imgs.xkcd.com/comics/engineering_hubris.png",
+  "title": "Engineering Hubris",
+  "day": "21",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce40a421832fca2d4e1e82"
+  },
+  "month": "10",
+  "num": 323,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Ballmer Peak",
+  "transcript": "[[A graph with \"programming skill\" on the X-axis and \"blood alcohol concentration\" on the Y one]]\n[[A man is making a presentation with the graph]]\nPresenter: Called the Ballmer Peak, it was discovered by Microsoft in the 80's. The cause is unknown but somehow a B.A.C between 0.129% and 0.138% confers superhuman programming ability.\nPresenter: However, it's a delicate effect requiring careful calibration--you can't just give a team of coders a year's supply of whiskey and tell them to get cracking.\nMan in public: ...Has that ever happened.\nPresenter: Remember Windows ME?\nMan: I knew it!\n{{title text: Apple uses automated schnapps IVs.}}",
+  "alt": "Apple uses automated schnapps IVs.",
+  "img": "https://imgs.xkcd.com/comics/ballmer_peak.png",
+  "title": "Ballmer Peak",
+  "day": "1",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce40c421832fca2d4e1e83"
+  },
+  "month": "10",
+  "num": 324,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Tapping",
+  "transcript": "[[A man is sitting at a desk, tapping various parts of it]]\nMan: Hey, I can get different pitches by tapping on different parts of the desk.\n[[The man starts tapping faster, with both hands]]\nMan: Sweet, I can do the Jurassic park theme!\n[[The man taps very rapidly]]\n[[Later, elsewhere]]\nFriend: So, what did you do all afternoon?\nMan: Hung out.\n{{alt text: Sometimes the best fun looks like boredom.}}",
+  "alt": "Sometimes the best fun looks like boredom.",
+  "img": "https://imgs.xkcd.com/comics/tapping.png",
+  "title": "Tapping",
+  "day": "3",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce40f221832fca2d4e1e84"
+  },
+  "month": "10",
+  "num": 325,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "A-Minus-Minus",
+  "transcript": "[[the hat guy is packing a bobcat into a box; a woman stands beside him.]]\nwoman: What are you doing?\nthe Hat Guy: Making the world a weirder place.\nbobcat: <<mrrowlll>>\n[[The hat guy has finished taping the package for shipping.]]\nman: Starting with my eBay feedback page.\n[[Bandaged person at a computer with assorted debris around the floor]]\nscreen: comments:\n<<bandaged person typing>> Instead of office chair package contained bobcat.\n<<bandaged person typing>> Would not buy again.\n{{title: You can do this one in every 30 times and still have 97% positive feedback.}}",
+  "alt": "You can do this one in every 30 times and still have 97% positive feedback.",
+  "img": "https://imgs.xkcd.com/comics/a-minus-minus.png",
+  "title": "A-Minus-Minus",
+  "day": "5",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce410921832fca2d4e1e85"
+  },
+  "month": "10",
+  "num": 326,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Effect an Effect",
+  "transcript": "Narrator: MY HOBBY:\nUsing the more obscure meanings of \"affect\" and \"effect\" to try to trip up amateur grammar nazis.\nMan [[types]]: I think that our foreign policy effects the situation.\nComputer [[types]]: You mean \"affects\".\n[[from Man]] <<tee hee hee>>\n{{title text: Time to paint another grammarian silhouette on the side of the desktop.}}",
+  "alt": "Time to paint another grammarian silhouette on the side of the desktop.",
+  "img": "https://imgs.xkcd.com/comics/effect_an_effect.png",
+  "title": "Effect an Effect",
+  "day": "8",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce412521832fca2d4e1e86"
+  },
+  "month": "10",
+  "num": 327,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Exploits of a Mom",
+  "transcript": "[[A woman is talking on the phone, holding a cup]]\nPhone: Hi, this is your son's school. We're having some computer trouble.\nMom: Oh dearâdid he break something?\nPhone: In a wayâ\nPhone: Did you really name your son \"Robert'); DROP TABLE Students;--\" ?\nMom: Oh, yes. Little Bobby Tables, we call him.\nPhone: Well, we've lost this year's student records. I hope you're happy.\nMom: And I hope you've learned to sanitize your database inputs.\n{{title-text: Her daughter is named Help I'm trapped in a driver's license factory.}}",
+  "alt": "Her daughter is named Help I'm trapped in a driver's license factory.",
+  "img": "https://imgs.xkcd.com/comics/exploits_of_a_mom.png",
+  "title": "Exploits of a Mom",
+  "day": "10",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce414d21832fca2d4e1e87"
+  },
+  "month": "10",
+  "num": 329,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Turing Test",
+  "transcript": "[[A man sits at a computer connected through a wall to another computer.]]\nTURING TEST EXTRA CREDIT: CONVINCE THE EXAMINER THAT HE'S A COMPUTER.\nMan: You know, you make some really good points. I'm ... not even sure who I am anymore.\n{{Title Text: Hit Turing right in the test-ees.}}",
+  "alt": "Hit Turing right in the test-ees.",
+  "img": "https://imgs.xkcd.com/comics/turing_test.png",
+  "title": "Turing Test",
+  "day": "15",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ce418421832fca2d4e1e88"
+  },
+  "month": "10",
+  "num": 331,
+  "link": "",
+  "year": "2007",
+  "news": "",
+  "safe_title": "Photoshops",
+  "transcript": "[[A woman holds a sword while a man looks on]]\nText: My hobby: Insisting that real-life objects are photoshopped.\nWoman: This sabre is a 19th-century family heirloom.\nMan: It looks photoshopped.\nWoman: Huh?\nMan: Yeah, the reflections are all wrong. Definitely photoshopped.\n{{Alt-text: When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other.}}",
+  "alt": "When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other.",
+  "img": "https://imgs.xkcd.com/comics/photoshops.png",
+  "title": "Photoshops",
+  "day": "19",
+  "lastModified": {
+    "$date": "2024-02-15T16:57:56.447Z"
+  }
+}]
