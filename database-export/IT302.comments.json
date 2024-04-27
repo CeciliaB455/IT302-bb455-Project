@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65fdf5b772ffe215156e2c64"
+  },
+  "name": "Cecilia Bruce",
+  "user_id": "123456",
+  "date": {
+    "$date": "2024-03-22T21:18:47.588Z"
+  },
+  "comment": "This comic is super funny!",
+  "comic_id": {
+    "$oid": "65ce3f3321832fca2d4e1e7b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619de4288f47dc510ba95ae"
+  },
+  "name": "Cecilia Bruce",
+  "user_id": "123456",
+  "date": {
+    "$date": "2024-04-27T01:33:54.169Z"
+  },
+  "comment": "I like this comic a lot! Wow!",
+  "comic_id": {
+    "$oid": "65ce3dc121832fca2d4e1e75"
+  }
+}]
